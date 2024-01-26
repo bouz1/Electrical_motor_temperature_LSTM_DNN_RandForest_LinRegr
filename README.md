@@ -1,0 +1,1 @@
+# Electrical_motor_temperature_LSTM_DNN_RandForest_LinRegr
