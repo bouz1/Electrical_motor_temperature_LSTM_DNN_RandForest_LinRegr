@@ -1,0 +1,3 @@
+The model RandSear_RandFor_V1.pkl has a size of 2.1GB so I remove it to avoid depassing the max size of github. 
+You can contacte me to sare it with you, or fit again the model in yor computer. 
+Sorry for any inconvenience :)
