@@ -1,1 +1,3 @@
 add from scipy import integrate in Data "PreProcessing>Import libraries" https://bouz1.github.io/fils/PMSM_temp_LSTM/Electrical_motor_temperature_LSTM_DNN_RandForest_LinRegr_V2.html#title_4
+
+cahnge the date in the portefolio: 2022 => 2024: January 2022 : Electrical motor 
